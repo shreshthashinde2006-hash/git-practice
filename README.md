@@ -1,4 +1,5 @@
 # Git Practice
-I am leaning git and Github .
-Today i learn some basic commandsof git
- 
+
+I am learning Git and GitHub.
+
+Today I learned basic Git commands.
